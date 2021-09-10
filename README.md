@@ -20,4 +20,4 @@ It is my portfolio website. Must check my all websites and contact me if want a 
 - 📫 How to reach me: 👇👇👇👇👇
 - Instagram : https://www.instagram.com/infotechprogrammer/ (DM me I am most active here)
 - Telegram : https://telegram.me/infotechprogrammer (Free courses and resourses of programming)
-- Youtube Channel : https://www.youtube.com/channel/UCjSmUb5HMaQvE7jvgnANFFA (Tips/tricks + web development)
+- Youtube Channel : https://www.youtube.com/c/InfotechProgrammer?sub_confirmation=1 (Tips/tricks + Programming + web development)
