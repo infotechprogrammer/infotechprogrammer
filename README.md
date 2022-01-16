@@ -27,7 +27,9 @@ Here are some ideas to get you started:
 - **Twitter** : https://twitter.com/sahilbatra158 (I am very less active here)
 
 -- Check my github repositories for C, C++ and Java and Data Strctures programs made by me and also web development projects code --
+
 -- You can **fork** and **star** the repositories that are helpful for you --
+
 -- Must check my all websites and contact me if want a nice and good static website for your startup --
 
 -- THANKYOU --
