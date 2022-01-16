@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Node JS
 - 👯 Ask me about your doubts of programming basics and web development
 
-💬 How to reach me: 👇👇👇👇👇
+💬 HOW TO REACH ME: 👇👇👇👇👇
 - **Instagram** : https://www.instagram.com/infotechprogrammer/ (DM me I am most active here)
 - **Telegram** : https://telegram.me/infotechprogrammer (Free courses and resourses of programming)
 - **Youtube Channel** : https://www.youtube.com/c/InfotechProgrammer?sub_confirmation=1 (Tips/tricks + Programming + web development)
