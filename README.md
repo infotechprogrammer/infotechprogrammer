@@ -42,10 +42,9 @@ Here are some ideas to get you started:
 <img align="left" alt="OBS studio" width="27px" src="https://img.icons8.com/ios/50/000000/obs-studio.png" style="padding-right:10px;" />
 </p>
 
-<br><br>
+### Check my Github Stats:
 
-
-<a href="https://github.com/infotechprogrammer/github-readme-stats"><br>
+<a href="https://github.com/infotechprogrammer/github-readme-stats">
   <img width="100%"
    src="https://github-readme-stats.vercel.app/api?username=infotechprogrammer&theme=github_dark&show_icons=true" />
 </a>
