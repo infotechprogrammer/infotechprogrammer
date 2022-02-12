@@ -21,8 +21,7 @@ Here are some ideas to get you started:
 <hr>
 <img 
    src="https://github-readme-stats.vercel.app/api?username=infotechprogrammer&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" 
-/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=infotechprogrammer&amp;theme=dark&amp;count_private=true">
+/> <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=infotechprogrammer&amp;theme=dark&amp;count_private=true">
 
 💬 HOW TO REACH ME: 👇👇👇👇👇
 - **Instagram** : https://www.instagram.com/infotechprogrammer/ (DM me I am most active here)
