@@ -13,11 +13,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Instagram : https://www.instagram.com/infotechprogrammer/
 -->
 
-- 📫 I'm a **Programmer**, **Content Creator** and **Youtuber**
-- 🔭 I’m currently working on **Web Development**
+- 📫 I'm a **Web Developer**, **Programmer**, **Content Creator** and **Youtuber**
+- 🔭 I’m currently working on **Web Development Projects and JAVA DSA**
 - 🌱 I had made **projects** in **PHP**, **JavaScript**, **React**, **Node.js** and **Wordpress**
-- 🌱 I’m currently learning Node JS
+- 🌱 I’m currently learning DSA and Web Development
 - 👯 Ask me about your doubts of programming basics and web development
+
+<img 
+   src="https://github-readme-stats.vercel.app/api?username=infotechprogrammer&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" 
+/>
 
 💬 HOW TO REACH ME: 👇👇👇👇👇
 - **Instagram** : https://www.instagram.com/infotechprogrammer/ (DM me I am most active here)
