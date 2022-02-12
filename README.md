@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Instagram : https://www.instagram.com/infotechprogrammer/
 -->
 
-- 📫 I'm a **Web Developer**, **Programmer**, **Content Creator** and **Youtuber**
+- 📫 I'm Sahil Batra a **Web Developer**, **Programmer**, **Content Creator** and **Youtuber**
 - 🔭 I’m currently working on **Web Development Projects and JAVA DSA**
 - 🌱 I had made **projects** in **PHP**, **JavaScript**, **React**, **Node.js** and **Wordpress**
 - 🌱 I’m currently learning DSA and Web Development
