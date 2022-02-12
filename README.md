@@ -55,6 +55,17 @@ Here are some ideas to get you started:
 
 ---
 
+### Latest YouTube videos
+<!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Datatypes in C++ | Program to understand built in datatypes in detail.](https://www.youtube.com/watch?v=lRcle2MrKx8)
+- [How to take user input in C++ Program let&#39;s see one example by coding](https://www.youtube.com/watch?v=if1rfZxozzM)
+- [Variables in C++ | Lets make a program to understand variables.](https://www.youtube.com/watch?v=2aDrT8rO81A)
+- [Basic Structure of C++ Program and use of Comments in Cplusplus](https://www.youtube.com/watch?v=PjP00Cv0UWo)
+- [Introduction to C++. Lets program and understand basic syntax of cplusplus.](https://www.youtube.com/watch?v=3a9aTJ-MxNk)
+<!-- YOUTUBE-VIDEOS-LIST:END -->
+
+---
+
 💬 **HOW TO REACH ME:** 👇👇👇👇👇
 - **Instagram** : https://www.instagram.com/infotechprogrammer/ (DM me I am most active here)
 - **Telegram** : https://telegram.me/infotechprogrammer (Free courses and resourses of programming)
