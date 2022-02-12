@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 
 ### Languages and Tools:
 
+<p>
 <img align="left" alt="Visual Studio Code" width="27px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="27px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="27px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
@@ -39,6 +40,7 @@ Here are some ideas to get you started:
 <img align="left" alt="C++" width="27px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" style="padding-right:10px;" />
 <img align="left" alt="Canva" width="27px" src="https://img.icons8.com/cute-clipart/50/000000/canva-app.png" style="padding-right:10px;" />
 <img align="left" alt="OBS studio" width="27px" src="https://img.icons8.com/ios/50/000000/obs-studio.png" style="padding-right:10px;" />
+</p>
 
 <br><br>
 
