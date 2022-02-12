@@ -1,4 +1,4 @@
-Hi there 👋
+### Hi there I am Sahil Batra 👋
 
 <!--
 **infotechprogrammer/infotechprogrammer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,24 +13,58 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Instagram : https://www.instagram.com/infotechprogrammer/
 -->
 
-- 📫 I'm Sahil Batra a **Web Developer**, **Programmer**, **Content Creator** and **Youtuber**
+- 📫 I'm a **Web Developer**, **Programmer**, **Content Creator** and **Youtuber**
 - 🔭 I’m currently working on **Web Development Projects and JAVA DSA**
 - 🌱 I had made **projects** in **PHP**, **JavaScript**, **React**, **Node.js** and **Wordpress**
 - 🌱 I’m currently learning DSA and Web Development
 - 👯 Ask me about your doubts of programming basics and web development
-<hr>
-<img 
-   src="https://github-readme-stats.vercel.app/api?username=infotechprogrammer&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" 
-/> <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=infotechprogrammer&amp;theme=dark&amp;count_private=true">
 
-💬 HOW TO REACH ME: 👇👇👇👇👇
+### Languages and Tools:
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img align="left" alt="HTML5" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
+<img align="left" alt="CSS3" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
+<img align="left" alt="JavaScript" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Bootstrap" width="28px" src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" style="padding-right:10px;" />
+<img align="left" alt="React" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Node.js" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
+<img align="left" alt="MongoDB" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Postman API" width="28px"  src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png" style="padding-right:10px;" />
+<img align="left" alt="PHP" width="28px" src="https://img.icons8.com/external-flat-juicy-fish/50/000000/external-php-coding-and-development-flat-flat-juicy-fish.png" style="padding-right:10px;" />
+<img align="left" alt="MySQL" width="28px" src="https://img.icons8.com/color/48/000000/mysql-logo.png" style="padding-right:10px;" />
+<img align="left" alt="Git" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+<img align="left" alt="GitHub" width="28px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
+<img align="left" alt="Java" width="28px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" style="padding-right:10px;" />
+<img align="left" alt="IntelliJIDEA" width="28px" src="https://img.icons8.com/color/50/000000/intellij-idea.png" style="padding-right:10px;" />
+<img align="left" alt="C++" width="28px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" style="padding-right:10px;" />
+<img align="left" alt="Canva" width="28px" src="https://img.icons8.com/cute-clipart/50/000000/canva-app.png" style="padding-right:10px;" />
+<img align="left" alt="OBS studio" width="28px" src="https://img.icons8.com/ios/50/000000/obs-studio.png" style="padding-right:10px;" />
+<br>
+
+
+---
+
+<a href="https://github.com/infotechprogrammer/github-readme-stats">
+  <img width="49%"
+   src="https://github-readme-stats.vercel.app/api?username=infotechprogrammer&theme=github_dark&show_icons=true" />
+</a>
+&nbsp;
+<a href="https://github.com/infotechprogrammer/github-readme-streak-stats.herokuapp.com">
+ <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=infotechprogrammer&amp;theme=dark&amp;count_private=true" />
+</a>
+
+---
+
+💬 **HOW TO REACH ME:** 👇👇👇👇👇
 - **Instagram** : https://www.instagram.com/infotechprogrammer/ (DM me I am most active here)
 - **Telegram** : https://telegram.me/infotechprogrammer (Free courses and resourses of programming)
 - **Youtube Channel** : https://www.youtube.com/c/InfotechProgrammer?sub_confirmation=1 (Tips/tricks + Programming + web development)
 - **Website** : https://infotechprogrammer.github.io/infotechprogrammer/ (**Portfolio Website**: My all Projects displayed here)
 - **Twitter** : https://twitter.com/sahilbatra158 (I am very less active here)
 
-🔽 READ MORE:
+---
+
+🔽 **READ MORE:**
 
 - Check my github repositories for C, C++ and Java and Data Strctures programs made by me and also web development projects code.
 
