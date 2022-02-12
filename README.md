@@ -39,18 +39,13 @@ Here are some ideas to get you started:
 <img align="left" alt="C++" width="27px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" style="padding-right:10px;" />
 <img align="left" alt="Canva" width="27px" src="https://img.icons8.com/cute-clipart/50/000000/canva-app.png" style="padding-right:10px;" />
 <img align="left" alt="OBS studio" width="27px" src="https://img.icons8.com/ios/50/000000/obs-studio.png" style="padding-right:10px;" />
-<br>
 
+<br><br>
 
----
 
 <a href="https://github.com/infotechprogrammer/github-readme-stats">
-  <img width="49%"
+  <img width="100%"
    src="https://github-readme-stats.vercel.app/api?username=infotechprogrammer&theme=github_dark&show_icons=true" />
-</a>
-&nbsp;
-<a href="https://github.com/infotechprogrammer/github-readme-streak-stats.herokuapp.com">
- <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=infotechprogrammer&amp;theme=dark&amp;count_private=true" />
 </a>
 
 ---
@@ -84,3 +79,9 @@ Here are some ideas to get you started:
 - Must check my all websites and contact me if want a nice and good static or dynamic website for your startup.
 
 - --THANKYOU --
+
+---
+
+<a href="https://github.com/infotechprogrammer/github-readme-streak-stats.herokuapp.com">
+ <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=infotechprogrammer&amp;theme=dark&amp;count_private=true" />
+</a>
