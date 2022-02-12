@@ -55,6 +55,13 @@ Here are some ideas to get you started:
 
 ---
 
+### Latest YouTube videos
+<!-- YOUTUBE-VIDEOS-LIST:START -->
+
+<!-- YOUTUBE-VIDEOS-LIST:END -->
+
+---
+
 💬 **HOW TO REACH ME:** 👇👇👇👇👇
 - **Instagram** : https://www.instagram.com/infotechprogrammer/ (DM me I am most active here)
 - **Telegram** : https://telegram.me/infotechprogrammer (Free courses and resourses of programming)
@@ -64,13 +71,6 @@ Here are some ideas to get you started:
 
 ---
 
-
-### Latest YouTube videos
-<!-- YOUTUBE-VIDEOS-LIST:START -->
-
-<!-- YOUTUBE-VIDEOS-LIST:END -->
-
----
 🔽 **READ MORE:**
 
 - Check my github repositories for C, C++ and Java and Data Strctures programs made by me and also web development projects code.
