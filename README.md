@@ -79,7 +79,7 @@ Here are some ideas to get you started:
 
 - Must check my all websites and contact me if want a nice and good static or dynamic website for your startup.
 
-- --THANKYOU --
+THANKYOU
 
 ---
 
