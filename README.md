@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 <br><br>
 
 
-<a href="https://github.com/infotechprogrammer/github-readme-stats">
+<a href="https://github.com/infotechprogrammer/github-readme-stats"><br>
   <img width="100%"
    src="https://github-readme-stats.vercel.app/api?username=infotechprogrammer&theme=github_dark&show_icons=true" />
 </a>
