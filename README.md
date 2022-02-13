@@ -53,11 +53,11 @@ Here are some ideas to get you started:
 
 ### Latest YouTube videos
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Operators in C++ | Lets see the use of operators in the program](https://www.youtube.com/watch?v=pAUSm8GrgB4)
 - [Derived Datatype and User defined Datatypes of C++](https://www.youtube.com/watch?v=jEmoaEgDVhU)
 - [Datatypes in C++ | Program to understand built in datatypes in detail.](https://www.youtube.com/watch?v=lRcle2MrKx8)
 - [How to take user input in C++ Program let&#39;s see one example by coding](https://www.youtube.com/watch?v=if1rfZxozzM)
 - [Variables in C++ | Lets make a program to understand variables.](https://www.youtube.com/watch?v=2aDrT8rO81A)
-- [Basic Structure of C++ Program and use of Comments in Cplusplus](https://www.youtube.com/watch?v=PjP00Cv0UWo)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---
