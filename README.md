@@ -53,11 +53,11 @@ Here are some ideas to get you started:
 
 ### Latest YouTube videos
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [if and else decision making statements | Control Statements in C++](https://www.youtube.com/watch?v=uZFobp-4HlU)
 - [What are strings ? Lets make a program to understand Strings in C++](https://www.youtube.com/watch?v=J-lBmfrXTuA)
 - [Operators in C++ | Lets see the use of operators in the program](https://www.youtube.com/watch?v=pAUSm8GrgB4)
 - [Derived Datatype and User defined Datatypes of C++](https://www.youtube.com/watch?v=jEmoaEgDVhU)
 - [Datatypes in C++ | Program to understand built in datatypes in detail.](https://www.youtube.com/watch?v=lRcle2MrKx8)
-- [How to take user input in C++ Program let&#39;s see one example by coding](https://www.youtube.com/watch?v=if1rfZxozzM)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---
