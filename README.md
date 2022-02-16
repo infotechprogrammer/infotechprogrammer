@@ -22,23 +22,23 @@ Here are some ideas to get you started:
 ### Languages and Tools:
 
 <p>
-<img alt="Visual Studio Code" width="27px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img alt="HTML5" width="27px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img alt="CSS3" width="27px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img alt="JavaScript" width="27px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img alt="Bootstrap" width="27px" src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" style="padding-right:10px;" />
-<img alt="React" width="27px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-<imgalt="Node.js" width="27px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
-<img alt="MongoDB" width="27px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
-<img alt="Postman API" width="27px"  src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png" style="padding-right:10px;" />
-<img alt="PHP" width="27px" src="https://img.icons8.com/external-flat-juicy-fish/50/000000/external-php-coding-and-development-flat-flat-juicy-fish.png" style="padding-right:10px;" />
-<img alt="MySQL" width="27px" src="https://img.icons8.com/color/48/000000/mysql-logo.png" style="padding-right:10px;" />
-<img alt="Git" width="27px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img width="27px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
-<img alt="Java" width="27px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" style="padding-right:10px;" />
-<img alt="IntelliJIDEA" width="27px" src="https://img.icons8.com/color/50/000000/intellij-idea.png" style="padding-right:10px;" />
-<img alt="C++" width="27px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" style="padding-right:10px;" />
-<img alt="Canva" width="27px" src="https://img.icons8.com/cute-clipart/50/000000/canva-app.png" style="padding-right:10px;" />
+<img alt="Visual Studio Code" width="27px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />&nbsp;&nbsp;
+<img alt="HTML5" width="27px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />&nbsp;&nbsp;
+<img alt="CSS3" width="27px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />&nbsp;&nbsp;
+<img alt="JavaScript" width="27px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />&nbsp;&nbsp;
+<img alt="Bootstrap" width="27px" src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" style="padding-right:10px;" />&nbsp;&nbsp;
+<img alt="React" width="27px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />&nbsp;&nbsp;
+<imgalt="Node.js" width="27px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />&nbsp;&nbsp;
+<img alt="MongoDB" width="27px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />&nbsp;&nbsp;
+<img alt="Postman API" width="27px"  src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png" style="padding-right:10px;" />&nbsp;&nbsp;
+<img alt="PHP" width="27px" src="https://img.icons8.com/external-flat-juicy-fish/50/000000/external-php-coding-and-development-flat-flat-juicy-fish.png" style="padding-right:10px;" />&nbsp;&nbsp;
+<img alt="MySQL" width="27px" src="https://img.icons8.com/color/48/000000/mysql-logo.png" style="padding-right:10px;" />&nbsp;&nbsp;
+<img alt="Git" width="27px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />&nbsp;&nbsp;
+<img width="27px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />&nbsp;&nbsp;
+<img alt="Java" width="27px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" style="padding-right:10px;" />&nbsp;&nbsp;
+<img alt="IntelliJIDEA" width="27px" src="https://img.icons8.com/color/50/000000/intellij-idea.png" style="padding-right:10px;" />&nbsp;&nbsp;
+<img alt="C++" width="27px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" style="padding-right:10px;" />&nbsp;&nbsp;
+<img alt="Canva" width="27px" src="https://img.icons8.com/cute-clipart/50/000000/canva-app.png" style="padding-right:10px;" />&nbsp;&nbsp;
 <img alt="OBS studio" width="27px" src="https://img.icons8.com/ios/50/000000/obs-studio.png" style="padding-right:10px;" />
 </p>
 
