@@ -53,11 +53,11 @@ Here are some ideas to get you started:
 
 ### Latest YouTube videos
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [do while loop in c++ | Looping statement with example program](https://www.youtube.com/watch?v=oO5zUmZJ6yY)
 - [Looping Statements in C++ | Lets understand While loop with program](https://www.youtube.com/watch?v=a6268QaQIr0)
 - [Switch statements in C++ | Lets make a program to understand](https://www.youtube.com/watch?v=GWqJ9FljJck)
 - [if and else decision making statements | Control Statements in C++](https://www.youtube.com/watch?v=uZFobp-4HlU)
 - [What are strings ? Lets make a program to understand Strings in C++](https://www.youtube.com/watch?v=J-lBmfrXTuA)
-- [Operators in C++ | Lets see the use of operators in the program](https://www.youtube.com/watch?v=pAUSm8GrgB4)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---
