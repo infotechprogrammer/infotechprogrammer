@@ -75,6 +75,6 @@ Here are some ideas to get you started:
 
 - You can **fork** and **star** the repositories that are helpful for you.
 
-- Check my pinned github repositories for C, C++, Java and Data Strctures programs made fpr students.
+- Check my pinned github repositories for C, C++, Java and Data Strctures programs made for students.
 
 ---
