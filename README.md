@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <img alt="JavaScript" width="27px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />&nbsp;&nbsp;
 <img alt="Bootstrap" width="27px" src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" style="padding-right:10px;" />&nbsp;&nbsp;
 <img alt="React" width="27px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />&nbsp;&nbsp;
-<imgalt="Node.js" width="27px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />&nbsp;&nbsp;
+<img alt="Node.js" width="27px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />&nbsp;&nbsp;
 <img alt="MongoDB" width="27px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />&nbsp;&nbsp;
 <img alt="Postman API" width="27px"  src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png" style="padding-right:10px;" />&nbsp;&nbsp;
 <img alt="PHP" width="27px" src="https://img.icons8.com/external-flat-juicy-fish/50/000000/external-php-coding-and-development-flat-flat-juicy-fish.png" style="padding-right:10px;" />&nbsp;&nbsp;
@@ -82,7 +82,3 @@ Here are some ideas to get you started:
 THANKYOU
 
 ---
-
-<a href="https://github.com/infotechprogrammer/github-readme-streak-stats.herokuapp.com">
- <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=infotechprogrammer&amp;theme=dark&amp;count_private=true" />
-</a>
