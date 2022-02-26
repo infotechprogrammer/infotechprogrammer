@@ -73,12 +73,8 @@ Here are some ideas to get you started:
 
 🔽 **READ MORE:**
 
-- Check my github repositories for C, C++ and Java and Data Strctures programs made by me and also web development projects code.
-
 - You can **fork** and **star** the repositories that are helpful for you.
 
-- Must check my all websites and contact me if want a nice and good static or dynamic website for your startup.
-
-THANKYOU
+- Check my pinned github repositories for C, C++, Java and Data Strctures programs made fpr students.
 
 ---
