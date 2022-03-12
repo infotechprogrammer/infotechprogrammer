@@ -53,11 +53,11 @@ Here are some ideas to get you started:
 
 ### Latest YouTube videos
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [How to learn java language ? 🔰 JAVA ROADMAP FOR BEGINNERS 🔰](https://www.youtube.com/watch?v=rZ9cb1uDxVk)
 - [What things to learn to make website ? FULL STACK WEB DEVELOPER ROADMAP](https://www.youtube.com/watch?v=lTFp6yfPNmE)
 - [How to start learning coding ? Let&#39;s see the way 👨‍💻](https://www.youtube.com/watch?v=ZWhghMdXzCY)
 - [Program to make Calculator in C++ | Menu Driven Program](https://www.youtube.com/watch?v=sC-0Ksi_PHs)
 - [Make calculations easy by using math functions of c++](https://www.youtube.com/watch?v=sKw26BgkE5A)
-- [for loop statement in c++ with example program](https://www.youtube.com/watch?v=bgdKXYZEiuA)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---
