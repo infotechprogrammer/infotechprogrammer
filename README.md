@@ -53,11 +53,11 @@ Here are some ideas to get you started:
 
 ### Latest YouTube videos
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Best Project Development Technologies Computer Students use | best language for making projects](https://www.youtube.com/watch?v=y1yCtc9LckI)
 - [How to create Instagram Post using canva | create amazing graphics with canva 🔥](https://www.youtube.com/watch?v=VDBDFOhltns)
 - [Average Salary of various developers in india](https://www.youtube.com/watch?v=7t2OCve953Y)
 - [How to learn c++ for beginners | c++ language roadmap with free resources](https://www.youtube.com/watch?v=9eZhv8hwgtE)
 - [How to make money by coding ?](https://www.youtube.com/watch?v=p4bK1IBP890)
-- [best udemy courses for web development 2022](https://www.youtube.com/watch?v=qdOfH1dGrAA)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---
