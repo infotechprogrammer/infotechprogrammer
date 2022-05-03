@@ -53,11 +53,11 @@ Here are some ideas to get you started:
 
 ### Latest YouTube videos
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Python language tutorial for beginners.](https://www.youtube.com/watch?v=98BD6vv-MZc)
 - [roadmap to learn data structures with free resources to learn dsa](https://www.youtube.com/watch?v=Bj15__A1V60)
 - [Best Project Development Technologies Computer Students use | best language for making projects](https://www.youtube.com/watch?v=y1yCtc9LckI)
 - [How to create Instagram Post using canva | create amazing graphics with canva 🔥](https://www.youtube.com/watch?v=VDBDFOhltns)
 - [Average Salary of various developers in india](https://www.youtube.com/watch?v=7t2OCve953Y)
-- [How to learn c++ for beginners | c++ language roadmap with free resources](https://www.youtube.com/watch?v=9eZhv8hwgtE)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---
