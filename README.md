@@ -53,11 +53,11 @@ Here are some ideas to get you started:
 
 ### Latest YouTube videos
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [use of variables and operators in python | Python Language Tutorial for Beginners](https://www.youtube.com/watch?v=Nmn7YNFj-kw)
 - [how to install and run python in visual studio code | Python Language Tutorial for Beginners](https://www.youtube.com/watch?v=LVbbp_FOUNw)
 - [Python language tutorial for beginners.](https://www.youtube.com/watch?v=98BD6vv-MZc)
 - [roadmap to learn data structures with free resources to learn dsa](https://www.youtube.com/watch?v=Bj15__A1V60)
 - [Best Project Development Technologies Computer Students use | best language for making projects](https://www.youtube.com/watch?v=y1yCtc9LckI)
-- [How to create Instagram Post using canva | create amazing graphics with canva 🔥](https://www.youtube.com/watch?v=VDBDFOhltns)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---
