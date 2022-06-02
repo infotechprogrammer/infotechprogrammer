@@ -53,11 +53,11 @@ Here are some ideas to get you started:
 
 ### Latest YouTube videos
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Program to understand concept of string and functions of strings | strings in python english](https://www.youtube.com/watch?v=Ka60gDfxZXQ)
 - [taking user input in python program | Program to take sum of two numbers](https://www.youtube.com/watch?v=-_XiRDDp5As)
 - [use of variables and operators in python | Python Language Tutorial for Beginners](https://www.youtube.com/watch?v=Nmn7YNFj-kw)
 - [how to install and run python in visual studio code | Python Language Tutorial for Beginners](https://www.youtube.com/watch?v=LVbbp_FOUNw)
 - [Python language tutorial for beginners.](https://www.youtube.com/watch?v=98BD6vv-MZc)
-- [roadmap to learn data structures with free resources to learn dsa](https://www.youtube.com/watch?v=Bj15__A1V60)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---
