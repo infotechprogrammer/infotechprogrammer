@@ -53,11 +53,11 @@ Here are some ideas to get you started:
 
 ### Latest YouTube videos
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Working with tuples and dictionary in python | Lets&#39;s make python programs](https://www.youtube.com/watch?v=BWWlmNoMqoE)
 - [Working with list in python and its functions and slicing of list](https://www.youtube.com/watch?v=SVyOCtkAPC4)
 - [Program to understand concept of string and functions of strings | strings in python english](https://www.youtube.com/watch?v=Ka60gDfxZXQ)
 - [taking user input in python program | Program to take sum of two numbers](https://www.youtube.com/watch?v=-_XiRDDp5As)
 - [use of variables and operators in python | Python Language Tutorial for Beginners](https://www.youtube.com/watch?v=Nmn7YNFj-kw)
-- [how to install and run python in visual studio code | Python Language Tutorial for Beginners](https://www.youtube.com/watch?v=LVbbp_FOUNw)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---
