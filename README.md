@@ -53,11 +53,11 @@ Here are some ideas to get you started:
 
 ### Latest YouTube videos
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Looping and Jumping statements in python | for loop and while loop with break and continue statement](https://www.youtube.com/watch?v=vP90OuKI90k)
 - [Control Statements and conditional if else statements in python with program.](https://www.youtube.com/watch?v=na9JhAUZYlU)
 - [Working with tuples and dictionary in python | Lets&#39;s make python programs](https://www.youtube.com/watch?v=BWWlmNoMqoE)
 - [Working with list in python and its functions and slicing of list](https://www.youtube.com/watch?v=SVyOCtkAPC4)
 - [Program to understand concept of string and functions of strings | strings in python english](https://www.youtube.com/watch?v=Ka60gDfxZXQ)
-- [taking user input in python program | Program to take sum of two numbers](https://www.youtube.com/watch?v=-_XiRDDp5As)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---
