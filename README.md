@@ -53,11 +53,11 @@ Here are some ideas to get you started:
 
 ### Latest YouTube videos
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Top 5 highest paying IT jobs](https://www.youtube.com/watch?v=LwA4iQWokGQ)
 - [Salary of various types of developers](https://www.youtube.com/watch?v=S3CETR6Ou8k)
 - [Error Handling in python | Program to handle runtime exception using try and except statements.](https://www.youtube.com/watch?v=9X84Yod_dgA)
 - [Python Functions | Program to understand the concept of functions in python.](https://www.youtube.com/watch?v=INSlL65w8U0)
 - [Looping and Jumping statements in python | for loop and while loop with break and continue statement](https://www.youtube.com/watch?v=vP90OuKI90k)
-- [Control Statements and conditional if else statements in python with program.](https://www.youtube.com/watch?v=na9JhAUZYlU)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---
