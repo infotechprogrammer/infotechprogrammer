@@ -55,9 +55,9 @@ Here are some ideas to get you started:
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [Top five operatong systems in 2022](https://www.youtube.com/watch?v=217UVMVJMJE)
 - [Top 5 highest paying IT jobs](https://www.youtube.com/watch?v=LwA4iQWokGQ)
+- [My Content Management Project Website made in PHP/MySQL](https://www.youtube.com/watch?v=b99vi9Po8n4)
 - [Salary of various types of developers](https://www.youtube.com/watch?v=S3CETR6Ou8k)
 - [Error Handling in python | Program to handle runtime exception using try and except statements.](https://www.youtube.com/watch?v=9X84Yod_dgA)
-- [Python Functions | Program to understand the concept of functions in python.](https://www.youtube.com/watch?v=INSlL65w8U0)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---
