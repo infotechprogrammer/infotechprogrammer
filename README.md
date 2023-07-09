@@ -53,11 +53,11 @@ Here are some ideas to get you started:
 
 ### Latest YouTube videos
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Top 5 websites to get job in 2023 | Job Search Websites in India](https://www.youtube.com/watch?v=aWu_CMNx8uE)
 - [Softares used for coding in different languages](https://www.youtube.com/watch?v=01IvUg635VY)
 - [Top five websites to learn coding free](https://www.youtube.com/watch?v=nXA1QNeAGi4)
 - [Top five operatong systems in 2022](https://www.youtube.com/watch?v=217UVMVJMJE)
 - [Top 5 highest paying IT jobs](https://www.youtube.com/watch?v=LwA4iQWokGQ)
-- [Salary of various types of developers](https://www.youtube.com/watch?v=S3CETR6Ou8k)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---
