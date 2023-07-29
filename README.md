@@ -53,11 +53,11 @@ Here are some ideas to get you started:
 
 ### Latest YouTube videos
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [How to prepare for an interview as a fresher | Job Interview Tips and Tricks](https://www.youtube.com/watch?v=gv_wpo46ZQo)
 - [Top Interview Questions for IT Freshers | Interview Experience of Product Based Company](https://www.youtube.com/watch?v=p3NP_5xXMAs)
 - [Top 5 websites to get job in 2023 | Job Search Websites in India](https://www.youtube.com/watch?v=aWu_CMNx8uE)
 - [Softares used for coding in different languages](https://www.youtube.com/watch?v=01IvUg635VY)
 - [Top five websites to learn coding free](https://www.youtube.com/watch?v=nXA1QNeAGi4)
-- [How to create Awesome Instagram Reels using Canva. Tips and Tricks to create Reels](https://www.youtube.com/watch?v=81dCfTHrYMA)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---
